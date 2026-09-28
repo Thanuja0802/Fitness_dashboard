@@ -1,0 +1,4 @@
+data/*.csv
+data/*.xlsx
+data/*.zip
+data/cleaned/minute_master.csv
